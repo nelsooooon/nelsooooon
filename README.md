@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 Undergraduate student at Universitas Surabaya.<br>👨‍💻 Enrolling in independent study program called Asah by Dicoding with Machine Learning as learning path.<br>⚙️ Currently working on Capstone Project about Customer Segmentation for Personalized Retail Marketing.<br>🏫 Now studying Deep Learning Fundamental.
+👨‍🎓 Undergraduate student at Universitas Surabaya.<br>👨‍💻 Enrolling at independent study program called Asah by Dicoding with Machine Learning as learning path.<br>⚙️ Currently working on Capstone Project about Customer Segmentation for Personalized Retail Marketing.<br>🏫 Now studying Deep Learning Fundamental.
 
 
 ## 🌐 Socials:
