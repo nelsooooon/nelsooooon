@@ -1,4 +1,4 @@
-![camille-unknown-barcelona21xx-fullok](https://github.com/user-attachments/assets/ea4ec79c-f327-4dbc-b988-d1c884372f53)
+![camille-unknown-barcelona21xx-fullok](https://github.com/user-attachments/assets/57814f6f-a613-441e-881e-0ca725073ad9)
 
 # 💫 About Me:
 👨‍🎓 Undergraduate student at Universitas Surabaya.<br>👨‍💻 Enrolling at independent study program called Asah by Dicoding with Machine Learning as learning path.<br>⚙️ Currently working on Capstone Project about Customer Segmentation for Personalized Retail Marketing.<br>🏫 Now studying Deep Learning Fundamental.
