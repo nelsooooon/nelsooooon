@@ -1,6 +1,7 @@
+![camille-unknown-barcelona21xx-fullok](https://github.com/user-attachments/assets/ea4ec79c-f327-4dbc-b988-d1c884372f53)
+
 # 💫 About Me:
 👨‍🎓 Undergraduate student at Universitas Surabaya.<br>👨‍💻 Enrolling at independent study program called Asah by Dicoding with Machine Learning as learning path.<br>⚙️ Currently working on Capstone Project about Customer Segmentation for Personalized Retail Marketing.<br>🏫 Now studying Deep Learning Fundamental.
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nelsooooon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nelsonahli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nelsonahli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahlinelson04@gmail.com) 
